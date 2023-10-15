@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar .collapse{
+	display: flex;
+	justify-content: space-around;
+	margin: 0px 30px;
+}
+
+.bgcustom{
+	background: #4db6ac;
+}
+
+
+.navbar h2{
+	color: #ffffff;
+	text-align: center;
+	padding: 0px;
+	margin: 0px 0px 0px 30px;
+}
+.navbar h2 img{
+	width: 40px;
+	padding: 0px -50px;
+	margin: 0px;
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 19px;
+	color: #ffffff;
+
+}
+
+.navbar .nav-item .nav-link:hover{
+	background: #ffffff;
+	color: #26a69a;
+	border-radius: 2px
+}
